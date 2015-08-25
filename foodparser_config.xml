@@ -1,0 +1,16 @@
+<config>
+<path name="pos.bin" path="en-pos-maxent.bin"></path>
+<path name="food.db" path="food.db"></path>
+<path name="unit.db" path="unit.db"></path>
+<result_xml_param name="xml_root" value="fdo_objects"></result_xml_param>
+<result_xml_param name="xml_fact_list" value="facts"></result_xml_param>
+<result_xml_param name="xml_dish" value="Dish"></result_xml_param>
+<result_xml_param name="xml_dish_unit" value="Type"></result_xml_param>
+<result_xml_param name="xml_dish_size" value="Size"></result_xml_param>
+<result_xml_param name="xml_dish_name" value="Name"></result_xml_param>
+<result_xml_param name="xml_un_dish_name" value="Value"></result_xml_param>
+<result_xml_param name="xml_un_dish" value="UnknownDish"></result_xml_param>
+<result_xml_param name="xml_attr_len" value="len"></result_xml_param>
+<result_xml_param name="xml_attr_pos" value="pos"></result_xml_param>
+<result_xml_param name="xml_attr_factId" value="FactID"></result_xml_param>
+</config>
